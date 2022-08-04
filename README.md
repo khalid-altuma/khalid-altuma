@@ -54,12 +54,8 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 
 <br />
 <br />
-<a margin="10" href="https://mui.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/materialui.svg" alt="material ui"></a>
-<a margin="10" href="https://figma.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/figma.svg" alt="figma"></a>
 <a margin="10" href="https://reactjs.org" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/react.svg" alt="react"></a>
-<a margin="10" href="https://nextjs.org" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/nextjs.svg" alt="next js"></a>
-<a margin="10" href="https://svelte.dev" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/svelte.svg" alt="svelte"></a>
-<a margin="10" href="https://graphql.org" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/graphql.svg" alt="graphql"></a>
+<a margin="10" href="https://jquery.com" target="_blank"><img margin="10px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/f/fd/JQuery-Logo.svg" alt="jQuery"></a>
 <br />
 <br />
 
