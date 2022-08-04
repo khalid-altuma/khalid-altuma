@@ -1,6 +1,7 @@
 
 <div align="center">
 <h2> Hi There, Welcome to my Github profile!</h2>
+<br>
 <a href="https://linkedin.com/in/khalid-altuma" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -55,7 +56,7 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 <br />
 <br />
 <a margin="10" href="https://reactjs.org" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/react.svg" alt="react"></a>
-<a margin="10" href="https://jquery.com" target="_blank"><img margin="10px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/f/fd/JQuery-Logo.svg" alt="jQuery"></a>
+<a margin="10" href="https://jquery.com" target="_blank"><img margin="10px" height="20" src="https://upload.wikimedia.org/wikipedia/commons/f/fd/JQuery-Logo.svg" alt="jQuery"></a>
 <a margin="10" href="https://www.mysql.com" target="_blank"><img margin="10px" height="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="MySQL"></a>
 <br />
 <br />
