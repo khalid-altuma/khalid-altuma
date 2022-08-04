@@ -56,7 +56,7 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 <br />
 <a margin="10" href="https://reactjs.org" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/react.svg" alt="react"></a>
 <a margin="10" href="https://jquery.com" target="_blank"><img margin="10px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/f/fd/JQuery-Logo.svg" alt="jQuery"></a>
-<a margin="10" href="https://www.mysql.com" target="_blank"><img margin="10px" height="40" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/mysql/mysql-official.svg" alt="jQuery"></a>
+<a margin="10" href="https://www.mysql.com" target="_blank"><img margin="10px" height="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="MySQL"></a>
 <br />
 <br />
 
