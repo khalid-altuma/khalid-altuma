@@ -22,7 +22,7 @@ I'm a Web Developer and Computer Engineering student at University of Mosul / Co
 I'm currently based in **[Erbil, Iraq.](https://www.google.com/maps/place/Erbil/@36.1974139,43.9389233,12z/data=!3m1!4b1!4m5!3m4!1s0x400722fe13443461:0x3e01d63391de79d1!8m2!3d36.190073!4d43.9930303)**
 
 <br />
-I love everthing about the Computers' World, from its hardware to software.
+I love everthing about the Computers' World, from software to its hardware.
 <br />
 <br />
 
