@@ -27,7 +27,7 @@ I love everthing about the Computers' World, from software to its hardware.
 <br />
 
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.<br />
-<a href="Khalid.a.tuma@gmail.com"><b>send me an email</b></a>.
+<a href="mailto:Khalid.a.tuma@gmail.com"><b>send me an email</b></a>.
 <br />
 <br />
 
