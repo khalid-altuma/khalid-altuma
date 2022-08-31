@@ -34,7 +34,7 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 
 <br />
 <br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalid-altuma&layout=compact&theme=dark&bg_color=0A0A0A" alt="khalid altumaTop Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalid-altuma&layout=compact&theme=dark&bg_color=0A0A0A" alt="khalid altuma Top Languages"/>
 <br />
 <br />
 <br />
