@@ -1,5 +1,5 @@
 
-<div align="center" backgroud-color="white">
+<div align="center">
 <h2> Hi There, Welcome to my Github profile!</h2>
 <br>
 <a href="https://linkedin.com/in/khalid-altuma" target="_blank">
