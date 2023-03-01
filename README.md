@@ -55,7 +55,7 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 
 <br />
 <br />
-<a margin="10" href="https://reactjs.org" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/react.svg" alt="react"></a>
+<a margin="10" href="https://reactjs.org" target="_blank"><img margin="10px" height="40" src="<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/null/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"/>" alt="react"></a>
 <a margin="10" href="https://www.mysql.com" target="_blank"><img margin="10px" height="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="MySQL"></a>
 <br />
 <br />
