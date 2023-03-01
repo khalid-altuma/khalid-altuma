@@ -55,7 +55,7 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 
 <br />
 <br />
-<a margin="10" href="https://reactjs.org" target="_blank"><img margin="10px" height="40" src="<img src="https://github.com/khalid-altuma/khalid-altuma/blob/main/icons/icons8-react-native-48.png"/>" alt="react"></a>
+<a margin="10" href="https://reactjs.org" target="_blank"><img margin="10px" height="40" src="https://github.com/khalid-altuma/khalid-altuma/blob/main/icons/icons8-react-native-48.png" alt="react"></a>
 <a margin="10" href="https://www.mysql.com" target="_blank"><img margin="10px" height="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="MySQL"></a>
 <br />
 <br />
