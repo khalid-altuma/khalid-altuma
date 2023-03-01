@@ -1,5 +1,5 @@
 
-<div align="center">
+<div align="center" backgroud-color="white">
 <h2> Hi There, Welcome to my Github profile!</h2>
 <br>
 <a href="https://linkedin.com/in/khalid-altuma" target="_blank">
@@ -65,8 +65,4 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 </div>
 <br />
 <br />
-
-<div align="center">
 <br />
-
----
